@@ -23,6 +23,6 @@ No frameworks and no JavaScript.
 
 ## Live site
 
-https://YOURUSERNAME.github.io/boba-notes
+https://ghania12900-ctrl.github.io/boba-notes
 
 Made for Boba Bash Islamabad.
